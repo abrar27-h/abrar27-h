@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Abrar's GitHub Banner" width="100%">
+</p>
+
 # 💫 About Me:
 ## 👋 Hi, I'm Abrar<br><br>I'm a student currently exploring **coding, technology, AI, and product development**.<br><br>🌱 Currently learning the basics of **programming and web development**<br>💻 Exploring **HTML, CSS, JavaScript, and Git/GitHub**<br>🤖 Interested in **AI and how technology can solve real-world problems**<br>🎨 I also enjoy **graphic design, creative projects, and visual communication**<br>🚀 Learning by building small projects, experimenting, and improving along the way.<br><br>> **Still learning, still building, still curious.**<br>
 
